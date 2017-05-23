@@ -19,4 +19,4 @@ Sarawak = srk<br />
 Sabah = sab<br />
 Wilayah Labuan = wlp<br />
 
-Made by: <a href="https:wwww.linkedin.com/azadarsyad">Azad Arsyad</a>
+Made by: <a href="https://wwww.linkedin.com/azadarsyad">Azad Arsyad</a>
