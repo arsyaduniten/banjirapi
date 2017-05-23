@@ -3,20 +3,20 @@ Banjir API
 
 https://banjir-api-azd.herokuapp.com/info/trg
 
-Terengganu = trg
-Perlis = pls
-Kuala Lumpur = wlh
-Kedah = kdh
-Penang = png
-Perak = prk
-Selangor = sel
-N9 = nsn
-Pahang = phg
-Kelantan = kel
-Johor = jhr
-Melaka = mlk
-Sarawak = srk
-Sabah = sab
-Wilayah Labuan = wlp
+Terengganu = trg <br />
+Perlis = pls <br />
+Kuala Lumpur = wlh	<br />
+Kedah = kdh <br />
+Penang = png <br />
+Perak = prk <br />
+Selangor = sel <br />
+N9 = nsn <br />
+Pahang = phg <br />
+Kelantan = kel<br />
+Johor = jhr<br />
+Melaka = mlk<br />
+Sarawak = srk<br />
+Sabah = sab<br />
+Wilayah Labuan = wlp<br />
 
 Made by: linkedin.com/azadarsyad
