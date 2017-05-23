@@ -3,6 +3,8 @@ Banjir API
 
 https://banjir-api-azd.herokuapp.com/info/trg
 
+change the last parameter accordingly
+
 Terengganu = trg <br />
 Perlis = pls <br />
 Kuala Lumpur = wlh	<br />
@@ -19,4 +21,4 @@ Sarawak = srk<br />
 Sabah = sab<br />
 Wilayah Labuan = wlp<br />
 
-Made by: <a href="https://wwww.linkedin.com/azadarsyad">Azad Arsyad</a>
+Made by: <a href="https://www.linkedin.com/in/azadarsyad" target="_blank">Azad Arsyad</a>
