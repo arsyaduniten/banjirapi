@@ -27,6 +27,7 @@ class InfoView(MethodView):
                     'water_level': info.water_level,
                 }
         else:
+            state = state.upper()
             pageurl = 'http://publicinfobanjir.water.gov.my/View/OnlineFloodInfo/PublicWaterLevel.aspx?scode='+state
             page = requests.get(pageurl)
             tree = html.fromstring(page.content)
