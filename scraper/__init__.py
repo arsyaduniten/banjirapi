@@ -7,4 +7,3 @@ db = SQLAlchemy(app)
 from scraper.info.views import info
 app.register_blueprint(info)
 db.create_all()
-app.run(host='0.0.0.0')
