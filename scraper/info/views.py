@@ -9,7 +9,7 @@ info = Blueprint('info', __name__)
 @info.route('/')
 @info.route('/home')
 def home():
-    return "Welcome to the Banjir API Home."
+    return "Welcome to the Banjir API Home. Made by Azad Arsyad"
 
 
 class InfoView(MethodView):
