@@ -3,7 +3,7 @@
 API Endpoint: https://banjir-api-azd.herokuapp.com/info/trg
 
 # Parameters
-*change the last parameter accordingly*
+*Change the last parameter accordingly*
 
 - Terengganu = trg <br />
 - Perlis = pls <br />
