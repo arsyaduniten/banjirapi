@@ -1,6 +1,6 @@
 # Banjir API
 
-API Endpoints: https://banjir-api-azd.herokuapp.com/info/trg
+API Endpoint: https://banjir-api-azd.herokuapp.com/info/trg
 
 # Parameters
 *change the last parameter accordingly*
