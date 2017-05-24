@@ -1,5 +1,4 @@
-# banjirapi
-Banjir API
+# Banjir Api
 
 https://banjir-api-azd.herokuapp.com/info/trg
 
